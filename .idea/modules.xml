@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PlaceAutocomplete.iml" filepath="$PROJECT_DIR$/PlaceAutocomplete.iml" />
+      <module fileurl="file://C:\PC\PC_Project\New folder\Not in gitHub\PlaceAutocomplete\PlaceAutocompleteFragment.iml" filepath="C:\PC\PC_Project\New folder\Not in gitHub\PlaceAutocomplete\PlaceAutocompleteFragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\PC\PC_Project\New folder\Not in gitHub\PlaceAutocomplete\app\app.iml" filepath="C:\PC\PC_Project\New folder\Not in gitHub\PlaceAutocomplete\app\app.iml" />
+    </modules>
+  </component>
+</project>
